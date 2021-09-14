@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "title": "hello world",
+      "body": "i this is dasjdjkashdasd",
+      "likes": 3,
+      "id": 1
+    },
+    {
+      "title": "fasfasa aasjsnasf",
+      "body": "asdasddaaasfafssf b kja",
+      "likes": 0,
+      "id": 2
+    },
+    {
+      "title": " jk aushhffiasfh fasff hellooooooooooooooooo",
+      "body": "afafsfa ashakjsf",
+      "likes": 90,
+      "id": 3
+    },
+    {
+      "title": "sdasd",
+      "body": "asdasd",
+      "likes": 0,
+      "id": 4
+    }
+  ],
+  "polls": [
+    {
+      "id": 1,
+      "question": "Do you prefer Vue or React?",
+      "answerA": "Vue",
+      "answerB": "React"
+    }
+  ]
+}
